@@ -1,0 +1,19 @@
+{
+  "name": "quizeko",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "node": ">=18.0.0 <19"
+  },
+  "dependencies": {
+    "firebase": "^9.17.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.14.2",
+    "react-scripts": "5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  }
+}
